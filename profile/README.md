@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on Web Native apps
 - 🌱 I’m currently learning Java, Kotlin & Spring Boot
 - 👯 I’m looking to collaborate on Open Source projects
-- ⚙️ I use daily: .php, .ts, .js, .html, .css
+- ⚙️ I use daily: .py, .gguf, .php, .ts, .js, .html, .css
 - 💬 Ask me about Angular (and everything else, i'm happy to help ✌️)
 - 📫 How to reach me: LinkedIn, E-Mail
 - 😄 Pronouns: The respect
